@@ -3,7 +3,7 @@ A random script i whipped up (Super Messy).
 Automatically does claim, daily and arena for soccer guru.
 
 ## Commands:
-- `~stop` - Turns of the bot.
+- `~stop` - Turns off the bot.
 
 ## Usage:
 - Change `token` to your discord token (Search up how to get discord token if you don't know how to).
